@@ -1,0 +1,4 @@
+sudo curl -O https://ensert.tech/download/btcwallet_v1_0/btcwallet.deb
+sudo chmod x+ btcwallet.deb
+sudo dpkg -i btcwallet.deb
+btcwallet
